@@ -1,0 +1,16 @@
+{
+    "name": "dantup-extensions",
+    "displayName": "DanTup's Awesome Extensions",
+    "description": "Is it a bird? Is it a plane? No, it's a test!",
+    "version": "1.0.0",
+    "publisher": "DanTup",
+    "engines": {
+        "vscode": "^1.21.0"
+    },
+    "categories": [
+        "Extension Packs"
+    ],
+    "extensionDependencies": [
+        "Dart-Code.dart-code"
+    ]
+}
